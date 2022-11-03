@@ -8,7 +8,7 @@ Download C.P. Training Windows Version. [Download URL](https://drive.google.com/
 
 - Play Screen
 
-<img src = "https://user-images.githubusercontent.com/77566805/147513953-a1794c3d-fa96-4239-bac4-6f404a8d5097.png" width="70%" height="70%">
+<img src = "https://user-images.githubusercontent.com/77566805/199730199-238f45dc-b21a-4037-97e6-6a52d6167aad.jpg" width="70%" height="70%">
 
 ## Description
 

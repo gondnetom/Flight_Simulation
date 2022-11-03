@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=-bWZaTagb8E&t=4s
 
 Play C.P. Training WebGL Version. [Play URL](https://gondnetom.github.io/Flight_Simulation/)
 
-Download C.P. Training Windows Version. [Download URL](https://drive.google.com/file/d/1CrqI2_s4eZpVrJCFzYuXhrl5JtMtTLaX/view?usp=sharing)
+Download C.P. Training Windows Version. [Download URL](https://drive.google.com/file/d/1tvlSJPkXEwq72qsW1znD4Es5cbZ3iRMA/view?usp=share_link)
 
 - Play Screen
 

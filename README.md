@@ -1,5 +1,5 @@
 # Flight_Simulation
-Choose Penalty Training.
+Flight Simulation
 https://www.youtube.com/watch?v=-bWZaTagb8E&t=4s
 
 Play Flight Simulation WebGL Version. [Play URL](https://gondnetom.github.io/Flight_Simulation/)
